@@ -7,3 +7,5 @@ setting.py is the main configuration to the django project
 python manage.py startapp accounts
 python manage.py makemigrations
 python manage.py migrate
+
+python manage.py runserver
